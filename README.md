@@ -11,4 +11,4 @@ A read me file for my own personal website. A website designed using HTML, CSS a
 
 # Author
 
-Made by Batuhan Başoğlu
+Made by Batuhan Berk Başoğlu
