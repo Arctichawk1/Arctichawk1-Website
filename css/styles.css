@@ -323,12 +323,12 @@ ul {
   background-color: rgba(45, 58, 75, 0.5);
   padding: 0px 60px;
   position: relative;
-  margin: 5vh auto 0 auto;
+  margin: 0 auto 0 auto;
 }
 
 .home-content h1 {
   padding-top: 40px;
-  font-size: 32px;
+  font-size: 21px;
   text-transform: uppercase;
   color: #fff;
   font-weight: 300;
@@ -336,7 +336,7 @@ ul {
 
 .home-content h1 em {
   margin-right: 20px;
-  font-size: 80px;
+  font-size: 72px;
   font-style: normal;
   font-weight: 800;
 }
@@ -358,7 +358,7 @@ ul {
 .home-content .left-text h4 {
   display: inline-block;
   padding-bottom: 5px;
-  font-size: 22px;
+  font-size: 21px;
   color: #fff;
   font-weight: 400;
   text-transform: uppercase;
