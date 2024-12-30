@@ -421,7 +421,7 @@ ul {
 
 #links .about-content .about-box-text {
   text-align: center;
-  margin-top: -33px;
+  margin-top: 90px;
 }
 
 .about-content .about-box-text h4 {
@@ -728,7 +728,7 @@ ul {
   }
 
   #links .about-content .about-box-text {
-    margin-top: -277px;
+    margin-top: -160px;
   }
 
   .projects-content {
@@ -746,7 +746,7 @@ ul {
   }
 
   .projects-content .heading {
-    padding-top: 25%;
+    padding-top: 10%;
   }
 
   .projects-content .owl-carousel {
